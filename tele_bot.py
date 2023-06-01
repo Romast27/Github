@@ -4,7 +4,6 @@ import telebot
 from telebot import types
 
 
-TOKEN = "5387334652:AAEou04vEX-5Yna8p3N_1CNkqHs8z4LlZgs"
 image_k = 1
 headers = {
     "accept": "*/*",
