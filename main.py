@@ -4,7 +4,6 @@ import telebot
 from telebot import types
 
 
-TOKEN = "5301543802:AAG56VSdSm5P0EPQhqapLrlmTgfCF_Er04M"
 def upcomming_spartak_match():
     with open("site.html", "r") as file:
         src = file.read()
